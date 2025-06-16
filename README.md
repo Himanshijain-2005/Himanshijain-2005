@@ -50,4 +50,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshijain-2005&"
         alt="himanshijain-2005" /></p>
 <p> <h3>Project 1 (React) </h3>https://himanshijain-2005.github.io/Project-Tic_tac/</p>
-<p> <h3>Project 2 (Javascript) </h3>https://himanshijain-2005.github.io/Leetcode_tracker/</p>
+<p> <h3>Project 2 (Javascript) </h3> https://himanshijain-2005.github.io/Javascript_leetcodeProgressTracker/</p>
