@@ -62,3 +62,16 @@
     🔗 Whisper Wave is live 
   </a>
 </h3>
+
+  <h3>Project 4 (E-Shopify) </h3>       
+
+<h3>
+  <a href="https://github.com/Himanshijain-2005/Shopsy"  rel="noopener noreferrer">
+    📂 For Code (GitHub)
+  </a>
+</h3>
+<h3>
+  <a href="https://e-shopify-kxo1.onrender.com"  rel="noopener noreferrer">
+    📂 E-Shopify is live
+  </a>
+</h3>
