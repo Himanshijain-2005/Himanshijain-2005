@@ -49,5 +49,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshijain-2005&"
         alt="himanshijain-2005" /></p>
-<p> <h3>Project 1 (React) </h3>https://himanshijain-2005.github.io/Project-Tic_tac/</p>
-<p> <h3>Project 2 (Javascript) </h3> https://himanshijain-2005.github.io/Javascript_leetcodeProgressTracker/</p>
+<p> <h3>Project 1 (Tic Tac) </h3>https://himanshijain-2005.github.io/Project-Tic_tac/</p>
+<p> <h3>Project 2 (Leetcode Progress Tracker) </h3> https://himanshijain-2005.github.io/Javascript_leetcodeProgressTracker/</p>
+<h3>
+  <h3>Project 3 (Whisper Wave) </h3>       
+  <a href="https://drive.google.com/file/d/12t6lobd-vlbNyvSck8wG66L7adiWMVol/view?usp=sharing" rel="noopener noreferrer">
+    🔗 Flow Chart of Whisper Wave
+  </a>
+</h3>
+<h3>
+  <a href="https://whisperwave-1.onrender.com" rel="noopener noreferrer">
+    🔗 Whisper Wave is live 
+  </a>
+</h3>
